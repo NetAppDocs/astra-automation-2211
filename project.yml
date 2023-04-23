@@ -35,7 +35,6 @@ sidebar:
     - section: workflows_infra
     - section: workflows
     - section: python
-    - section: reference
     - section: information
     - title: Earlier versions
       url: /aa-earlier-versions.html
