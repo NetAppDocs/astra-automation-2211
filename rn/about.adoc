@@ -16,7 +16,7 @@ summary: The documentation at this site describes the Astra Control REST API and
 The documentation at this site describes the Astra Control REST API and related automation technologies included with releases of the two Astra Control deployment models as described below.
 
 [NOTE]
-Every Astra release is assigned a version number of the form *YY.MM*. This value identities the version based on the year (_YY_) and month (_MM_) it became available. For example, Astra Control Service 23.01 was released in January 2023.
+Every Astra Control release is assigned a version number of the form *YY.MM*. This value identities the version based on the year (_YY_) and month (_MM_) it became available. For example, Astra Control Service 23.01 was released in January 2023.
 
 .Release cadence
 
